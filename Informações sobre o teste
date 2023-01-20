@@ -1,0 +1,7 @@
+- [ ] Correção ortográficas nas palavras "Ché Gelado" para "Chá Gelado"
+- [ ] Correção ortográficas nas palavras  "Relizar Compras" para "Realizar Compras"
+- [ ] Implementação para ver informações da empresa somente administrador e a própria empresa pode pode ver
+- [ ] Correção quando Cliente comprava algum produto o estoque da empresa não diminuia conforme a compra.
+- [ ] Correção o saldo da empresa não estava alterando conforme as taxas
+
+- Em Duvida na seguinte regra de negócio:  Administrador é para visualizar apenas Nome, CNPJ  e Taxa da empresa ou é para visualizar Saldo, Produtos, e Vendas também.
